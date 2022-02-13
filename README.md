@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=blpeng2)](https://solved.ac/blpeng2)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blpeng2">
