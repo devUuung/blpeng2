@@ -2,6 +2,7 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blpeng_py">
 
 # Cpp
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blpeng_cpp">
 
 # Rust
 
