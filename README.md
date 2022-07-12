@@ -17,7 +17,7 @@
 </p>
 <div align="center">MyBlog : https://dev-blpeng.tistory.com/</div>
 <div align="center">
-    [Go to my Portfolio](https://next-protfolio-beta.vercel.app/)
+    MyPortfolio : https://next-protfolio-beta.vercel.app/
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blpeng2)](https://github.com/anuraghazra/github-readme-stats)
