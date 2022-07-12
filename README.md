@@ -16,8 +16,9 @@
     <img alt="C" src ="https://img.shields.io/badge/C Language-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 </p>
 
+<center>MyBlog : https://dev-blpeng.tistory.com/</center>
+<center>MyPortfolio : https://next-protfolio-beta.vercel.app/</center>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blpeng2)](https://github.com/anuraghazra/github-readme-stats)
-https://next-protfolio-beta.vercel.app/
 
 
-https://dev-blpeng.tistory.com/
