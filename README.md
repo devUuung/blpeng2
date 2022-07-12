@@ -14,3 +14,4 @@
     <img alt="C" src ="https://img.shields.io/badge/C Language-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 </p>
 https://next-protfolio-beta.vercel.app/
+https://dev-blpeng.tistory.com/
