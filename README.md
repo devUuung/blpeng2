@@ -7,7 +7,7 @@
 <br>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blpeng2">
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=blpeng2)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 # **Skill**
