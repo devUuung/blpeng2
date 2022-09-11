@@ -9,13 +9,11 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blpeng2">
 </div>
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=blpeng2&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 # **Skill**
 - python
 - django
 
 # **Project**
 - [노션DB](https://github.com/blpeng2/python-notion)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=blpeng2&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
