@@ -16,4 +16,4 @@
 # **Project**
 - [노션DB](https://github.com/blpeng2/python-notion)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=blpeng2&theme=dracula&bg_color=ffffff&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://www.gnu.ac.kr/images/web/main/sub_cnt/btype_vi_img18.png">
