@@ -16,4 +16,4 @@
 # **Project**
 - [노션DB](https://github.com/blpeng2/python-notion)
 
-<img src="https://www.gnu.ac.kr/images/web/main/sub_cnt/btype_vi_img18.png">
+<p align="right"><img src="https://www.gnu.ac.kr/images/web/main/sub_cnt/btype_vi_img18.png">
